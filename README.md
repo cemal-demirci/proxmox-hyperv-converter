@@ -1,3 +1,7 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Shell Script](https://img.shields.io/badge/language-bash-blue)
+![Tested on Proxmox VE 8](https://img.shields.io/badge/Tested%20on-Proxmox%20VE%208.x-orange)
+
 # 🧠 proxmox-hyperv-converter
 
 Convert Hyper-V exported Windows VMs into Proxmox-compatible, UEFI-enabled, backup-integrated, HA-ready virtual machines — fully automated.  
