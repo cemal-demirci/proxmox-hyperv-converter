@@ -22,6 +22,16 @@ Hyper-V'den dışa aktarılan Windows sanal makinelerini Proxmox'a dönüştürm
 
 ---
 
+## 🧱 Advanced
+
+### Coming soon:
+- Linux VM desteği (.img → .qcow2)
+- ISO'dan sıfırdan kurulum + unattended setup
+- Python tabanlı GUI versiyon
+- Email ile günlük/haftalık backup raporları
+- ZFS + Ceph destekli disk otomasyonu
+
+
 ## Quick Start (on Proxmox Server)
 
 📥 **Download & Run in One Line:**
